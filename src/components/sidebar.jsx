@@ -8,9 +8,9 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
-              <h1 id="colorlib-logo"><a href="index.html">Dhruv Barochiya</a></h1>
-              <span className="email"><i className="icon-mail"></i> Dhruv.barochiya34788@gmail.com</span>
+              <div className="author-img" style={{backgroundImage: 'url(images/my-image1.jpg)'}} />
+              <h1 id="colorlib-logo"><a href="index.html">Jagmohan Mandre</a></h1>
+              <span className="email"><i className="icon-mail"></i> jagmohanmandre@gmail.com</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -25,12 +25,12 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/dhruv.barochia" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://twitter.com/ddbarochiya" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                <li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://www.facebook.com/jagmohan.mandre" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://twitter.com/jagmohan.mandre" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://www.instagram.com/jagmohan.mandre/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/jagmohan.mandre/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/jagmohan1294" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="https://medium.com/@jagmohan.mandre" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
